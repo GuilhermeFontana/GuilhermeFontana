@@ -23,8 +23,8 @@ Analise e Desenvolvimento de Sistemas na Unidombosco.
    
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="JAVA"
+    title="JAVA" 
     width="40px" 
     style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"
