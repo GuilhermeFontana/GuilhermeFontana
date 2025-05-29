@@ -25,7 +25,14 @@ Analise e Desenvolvimento de Sistemas na Unidombosco.
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"
 />
+
+<br/>
+<br/>
+
+### 🤖 Estatisicas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeFontana&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br)
